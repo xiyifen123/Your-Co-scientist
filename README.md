@@ -1,6 +1,7 @@
 # Your Co-scientist
 
 AI Copilot for Wet Lab Scientists.
+This is designed from real wet-lab research workflows to help scientists focus on discovery rather than protocol management.
 
 ## Product Vision
 
