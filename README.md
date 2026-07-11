@@ -1,7 +1,14 @@
 # Your Co-scientist
 
-> # An AI Copilot for Wet Lab Scientists.
-> **Focus on discovery. We'll remember the details.**
+AI Copilot for Wet Lab Scientists.
+
+🔗 Live Demo:
+https://your-co-scientist.vercel.app/
+
+## Overview
+
+Your Co-scientist is an AI-powered laboratory assistant designed to help researchers manage experimental workflows through voice interaction, adaptive protocols, and intelligent reminders.
+
 
 ## The Problem
 
