@@ -3,8 +3,7 @@
 > **An AI Copilot for Wet Lab Scientists.**
 > Focus on discovery. We'll remember the details.
 
-Your Co-scientist is a voice-first AI companion designed for laboratory scientists. It knows where you are in your experiment, reminds you before you make a mistake, and lets you control everything hands-free — because in a wet lab, your hands are always busy.
-
+Your Co-scientist is a voice-first AI companion designed for laboratory scientists. It knows where you are in your experiment, reminds you before you make a mistake, and lets you control everything hands-free in a wet lab.
 ---
 
 ## The Problem
