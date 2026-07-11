@@ -1,7 +1,7 @@
 # Your Co-scientist
 
-> **An AI Copilot for Wet Lab Scientists.**
-> Focus on discovery. We'll remember the details.
+> # An AI Copilot for Wet Lab Scientists.
+> **Focus on discovery. We'll remember the details.**
 
 ## The Problem
 
